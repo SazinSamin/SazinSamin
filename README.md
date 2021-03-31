@@ -1,4 +1,4 @@
-<h1 align="center">Assalamu Alaikum 👋, I'm Sazin Reshed Samin</h1>
+<h1 align="center">Assalamu Alaikum 👋,This is Sazin Reshed Samin</h1>
 <h3 align="center">A passionate mobile application development and enthusiastic about Information Technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sazinsamin&label=Profile%20views&color=0e75b6&style=flat" alt="sazinsamin" /> </p>
