@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Flutter**
+- 🔭 I’m currently working on **Flutter, Data structure & Algorithm**
 
-- 🌱 I’m currently learning **Flutter, Java, Dart, Python**
+- 🌱 I’m currently learning **Flutter, Java, Dart, Python, Javascript**
 
-- 💬 Ask me about **Flutter**
+- 💬 Ask me about **Flutter, Data structure & Alogithm**
 
 - 📫 How to reach me **sazinsamin50@gmail.com**
 
