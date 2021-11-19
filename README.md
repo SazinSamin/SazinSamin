@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Flutter, Javascript, Html, CSS, Bootstrap, Java, Dart, Python, Data structure & Algorithm**
 
-- 💬 Ask me about **C++, C, Dart Flutter, Data structure & Alogithm**
+- 💬 Ask me about **C++, C, Dart Flutter, Data structure & Algorithm**
 
 - 📫 How to reach me **sazinsamin50@gmail.com**
 
