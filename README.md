@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Javascript, Node js, Computer Network, C++, Dart, Bootstrap, Data structure & Algorithm**
+- 🔭 I’m currently working on **Javascript, ExpressJs, Node js, Mongodb, Computer Network, C++, Dart, Bootstrap, Data structure & Algorithm**
 
-- 🌱 I’m currently learning **Nodejs, Javascript, Flutter Html, CSS, Bootstrap, Java, Dart, Python, Data structure & Algorithm**
+- 🌱 I’m currently learning **ExpressJs, Mongodb, Nodejs, Javascript, Flutter Html, CSS, Bootstrap, Java, Dart, Python, Data structure & Algorithm**
 
-- 💬 Ask me about **Computer Network, C++, C, Dart Flutter, Data structure & Algorithm**
+- 💬 Ask me about **Express, Computer Network, C++, C, Dart Flutter, Data structure & Algorithm**
 
 - 📫 How to reach me **sazinsamin50@gmail.com**
 
