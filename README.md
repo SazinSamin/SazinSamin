@@ -1,5 +1,5 @@
 <h1 align="center">Assalamu Alaikum👋, This is Sazin Reshed Samin</h1>
-<h3 align="center">A passionate full stack developer.</h3>
+<h3 align="center">A full stack developer and software engineer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sazinsamin&label=Profile%20views&color=0e75b6&style=flat" alt="sazinsamin" /> </p>
 
