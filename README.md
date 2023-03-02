@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/sazinsamin" target="blank"><img src="https://img.shields.io/twitter/follow/sazinsamin?logo=twitter&style=for-the-badge" alt="sazinsamin" /></a> </p>
 
-- 🔭 I’m currently working on **Javascript, ExpressJs, Node js, Mongodb, Computer Network, C++, Dart, Bootstrap, Data structure & Algorithm**
+- 🔭 I’m currently working on **Javascript, ExpressJs, Node js, Mongodb, Computer Network, C++, Dart**
 
-- 🌱 I’m currently learning **ExpressJs, Mongodb, Nodejs, Javascript, Flutter Html, CSS, Bootstrap, Dart, Python, Data structure & Algorithm**
+- 🌱 I’m currently learning **ExpressJs, Mongodb, Nodejs, Javascript, Sql, Flutter Html, CSS, Bootstrap, Dart, Python, Data structure & Algorithm**
 
 - 👨‍💻 All of my projects are available at [https://sazinsamin.github.io/](https://sazinsamin.github.io/)
 
