@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/sazinsamin" target="blank"><img src="https://img.shields.io/twitter/follow/sazinsamin?logo=twitter&style=for-the-badge" alt="sazinsamin" /></a> </p>
 
-- 🔭 I’m currently working on **Reactjs, Javascript, ExpressJs, Node js, Mongodb**
+- 🔭 I’m currently working on **Reactjs,Redux, Javascript, ExpressJs, Node js, Mongodb**
 
-- 🌱 I’m currently learning **ExpressJs, Mongodb, Nodejs, Javascript, Sql, Html, CSS, Bootstrap, Data structure & Algorithm**
+- 🌱 I’m currently learning **Typescript, Mongodb, Javascript, Sql, Html, CSS, Bootstrap, Data structure & Algorithm**
 
 - 👨‍💻 All of my projects are available at [https://sazinsamin.github.io/](https://sazinsamin.github.io/)
 
